@@ -32,7 +32,1048 @@ animation/trimming=true
 animation/remove_immutable_tracks=true
 animation/import_rest_as_RESET=false
 import_script/path=""
-_subresources={}
+_subresources={
+"materials": {
+"Garbage_bag": {
+"use_external/enabled": true,
+"use_external/path": "res://assets/Sewer/Sewer/Models/Opened_fbx/Garbage_bag.tres"
+},
+"Metal": {
+"use_external/enabled": true,
+"use_external/path": "res://assets/Sewer/Sewer/Models/Opened_fbx/Metal.tres"
+},
+"Pipes": {
+"use_external/enabled": true,
+"use_external/path": "res://assets/Sewer/Sewer/Models/Opened_fbx/Pipes.tres"
+},
+"Pipes.001": {
+"use_external/enabled": true,
+"use_external/path": "res://assets/Sewer/Sewer/Models/Opened_fbx/Pipes.001.tres"
+},
+"Trash": {
+"use_external/enabled": true,
+"use_external/path": "res://assets/Sewer/Sewer/Models/Opened_fbx/Trash.tres"
+},
+"Trash_01": {
+"use_external/enabled": true,
+"use_external/path": "res://assets/Sewer/Sewer/Models/Opened_fbx/Trash_01.tres"
+},
+"brick_modern": {
+"use_external/enabled": true,
+"use_external/path": "res://assets/Sewer/Sewer/Models/Opened_fbx/brick_modern.tres"
+},
+"brick_modern_01": {
+"use_external/enabled": true,
+"use_external/path": "res://assets/Sewer/Sewer/Models/Opened_fbx/brick_modern_01.tres"
+},
+"brick_pavement": {
+"use_external/enabled": true,
+"use_external/path": "res://assets/Sewer/Sewer/Models/Opened_fbx/brick_pavement.tres"
+},
+"bricks": {
+"use_external/enabled": true,
+"use_external/path": "res://assets/Sewer/Sewer/Models/Opened_fbx/bricks.tres"
+},
+"concrete_bare_01": {
+"use_external/enabled": true,
+"use_external/path": "res://assets/Sewer/Sewer/Models/Opened_fbx/concrete_bare_01.tres"
+},
+"concrete_base": {
+"use_external/enabled": true,
+"use_external/path": "res://assets/Sewer/Sewer/Models/Opened_fbx/concrete_base.tres"
+},
+"concrete_base_02": {
+"use_external/enabled": true,
+"use_external/path": "res://assets/Sewer/Sewer/Models/Opened_fbx/concrete_base_02.tres"
+},
+"concrete_base_03": {
+"use_external/enabled": true,
+"use_external/path": "res://assets/Sewer/Sewer/Models/Opened_fbx/concrete_base_03.tres"
+},
+"concrete_dirty": {
+"use_external/enabled": true,
+"use_external/path": "res://assets/Sewer/Sewer/Models/Opened_fbx/concrete_dirty.tres"
+},
+"debris": {
+"use_external/enabled": true,
+"use_external/path": "res://assets/Sewer/Sewer/Models/Opened_fbx/debris.tres"
+},
+"debris_01": {
+"use_external/enabled": true,
+"use_external/path": "res://assets/Sewer/Sewer/Models/Opened_fbx/debris_01.tres"
+},
+"debris_02": {
+"use_external/enabled": true,
+"use_external/path": "res://assets/Sewer/Sewer/Models/Opened_fbx/debris_02.tres"
+},
+"debris_03": {
+"use_external/enabled": true,
+"use_external/path": "res://assets/Sewer/Sewer/Models/Opened_fbx/debris_03.tres"
+},
+"door_metal": {
+"use_external/enabled": true,
+"use_external/path": "res://assets/Sewer/Sewer/Models/Opened_fbx/door_metal.tres"
+},
+"door_metal_01": {
+"use_external/enabled": true,
+"use_external/path": "res://assets/Sewer/Sewer/Models/Opened_fbx/door_metal_01.tres"
+},
+"door_metal_02": {
+"use_external/enabled": true,
+"use_external/path": "res://assets/Sewer/Sewer/Models/Opened_fbx/door_metal_02.tres"
+},
+"soil_mud": {
+"use_external/enabled": true,
+"use_external/path": "res://assets/Sewer/Sewer/Models/Opened_fbx/soil_mud.tres"
+}
+},
+"meshes": {
+"Box_T": {
+"generate/lightmap_uv": 0,
+"generate/lods": 0,
+"generate/shadow_meshes": 0,
+"lods/normal_merge_angle": 60.0,
+"save_to_file/enabled": true,
+"save_to_file/path": "res://assets/Sewer/Sewer/Models/Opened_fbx/Box_T.res"
+},
+"Box_T_01": {
+"generate/lightmap_uv": 0,
+"generate/lods": 0,
+"generate/shadow_meshes": 0,
+"lods/normal_merge_angle": 60.0,
+"save_to_file/enabled": true,
+"save_to_file/path": "res://assets/Sewer/Sewer/Models/Opened_fbx/Box_T_01.res"
+},
+"Box_T_02": {
+"generate/lightmap_uv": 0,
+"generate/lods": 0,
+"generate/shadow_meshes": 0,
+"lods/normal_merge_angle": 60.0,
+"save_to_file/enabled": true,
+"save_to_file/path": "res://assets/Sewer/Sewer/Models/Opened_fbx/Box_T_02.res"
+},
+"Box_T_03": {
+"generate/lightmap_uv": 0,
+"generate/lods": 0,
+"generate/shadow_meshes": 0,
+"lods/normal_merge_angle": 60.0,
+"save_to_file/enabled": true,
+"save_to_file/path": "res://assets/Sewer/Sewer/Models/Opened_fbx/Box_T_03.res"
+},
+"Brick": {
+"generate/lightmap_uv": 0,
+"generate/lods": 0,
+"generate/shadow_meshes": 0,
+"lods/normal_merge_angle": 60.0,
+"save_to_file/enabled": true,
+"save_to_file/path": "res://assets/Sewer/Sewer/Models/Opened_fbx/Brick.res"
+},
+"Bricks": {
+"generate/lightmap_uv": 0,
+"generate/lods": 0,
+"generate/shadow_meshes": 0,
+"lods/normal_merge_angle": 60.0,
+"save_to_file/enabled": true,
+"save_to_file/path": "res://assets/Sewer/Sewer/Models/Opened_fbx/Bricks.res"
+},
+"Cylinder_028": {
+"generate/lightmap_uv": 0,
+"generate/lods": 0,
+"generate/shadow_meshes": 0,
+"lods/normal_merge_angle": 60.0,
+"save_to_file/enabled": true,
+"save_to_file/path": "res://assets/Sewer/Sewer/Models/Opened_fbx/Cylinder_028.res"
+},
+"Garbage_bag": {
+"generate/lightmap_uv": 0,
+"generate/lods": 0,
+"generate/shadow_meshes": 0,
+"lods/normal_merge_angle": 60.0,
+"save_to_file/enabled": true,
+"save_to_file/path": "res://assets/Sewer/Sewer/Models/Opened_fbx/Garbage_bag.res"
+},
+"Garbage_bag_001": {
+"generate/lightmap_uv": 0,
+"generate/lods": 0,
+"generate/shadow_meshes": 0,
+"lods/normal_merge_angle": 60.0,
+"save_to_file/enabled": true,
+"save_to_file/path": "res://assets/Sewer/Sewer/Models/Opened_fbx/Garbage_bag_001.res"
+},
+"Pipe": {
+"generate/lightmap_uv": 0,
+"generate/lods": 0,
+"generate/shadow_meshes": 0,
+"lods/normal_merge_angle": 60.0,
+"save_to_file/enabled": true,
+"save_to_file/path": "res://assets/Sewer/Sewer/Models/Opened_fbx/Pipe.res"
+},
+"Pipe_001": {
+"generate/lightmap_uv": 0,
+"generate/lods": 0,
+"generate/shadow_meshes": 0,
+"lods/normal_merge_angle": 60.0,
+"save_to_file/enabled": true,
+"save_to_file/path": "res://assets/Sewer/Sewer/Models/Opened_fbx/Pipe_001.res"
+},
+"Pipe_002": {
+"generate/lightmap_uv": 0,
+"generate/lods": 0,
+"generate/shadow_meshes": 0,
+"lods/normal_merge_angle": 60.0,
+"save_to_file/enabled": true,
+"save_to_file/path": "res://assets/Sewer/Sewer/Models/Opened_fbx/Pipe_002.res"
+},
+"Pipe_003": {
+"generate/lightmap_uv": 0,
+"generate/lods": 0,
+"generate/shadow_meshes": 0,
+"lods/normal_merge_angle": 60.0,
+"save_to_file/enabled": true,
+"save_to_file/path": "res://assets/Sewer/Sewer/Models/Opened_fbx/Pipe_003.res"
+},
+"Pipe_004": {
+"generate/lightmap_uv": 0,
+"generate/lods": 0,
+"generate/shadow_meshes": 0,
+"lods/normal_merge_angle": 60.0,
+"save_to_file/enabled": true,
+"save_to_file/path": "res://assets/Sewer/Sewer/Models/Opened_fbx/Pipe_004.res"
+},
+"Pipe_005": {
+"generate/lightmap_uv": 0,
+"generate/lods": 0,
+"generate/shadow_meshes": 0,
+"lods/normal_merge_angle": 60.0,
+"save_to_file/enabled": true,
+"save_to_file/path": "res://assets/Sewer/Sewer/Models/Opened_fbx/Pipe_005.res"
+},
+"Pipe_006": {
+"generate/lightmap_uv": 0,
+"generate/lods": 0,
+"generate/shadow_meshes": 0,
+"lods/normal_merge_angle": 60.0,
+"save_to_file/enabled": true,
+"save_to_file/path": "res://assets/Sewer/Sewer/Models/Opened_fbx/Pipe_006.res"
+},
+"Pipe_007": {
+"generate/lightmap_uv": 0,
+"generate/lods": 0,
+"generate/shadow_meshes": 0,
+"lods/normal_merge_angle": 60.0,
+"save_to_file/enabled": true,
+"save_to_file/path": "res://assets/Sewer/Sewer/Models/Opened_fbx/Pipe_007.res"
+},
+"Pipe_008": {
+"generate/lightmap_uv": 0,
+"generate/lods": 0,
+"generate/shadow_meshes": 0,
+"lods/normal_merge_angle": 60.0,
+"save_to_file/enabled": true,
+"save_to_file/path": "res://assets/Sewer/Sewer/Models/Opened_fbx/Pipe_008.res"
+},
+"Pipe_009": {
+"generate/lightmap_uv": 0,
+"generate/lods": 0,
+"generate/shadow_meshes": 0,
+"lods/normal_merge_angle": 60.0,
+"save_to_file/enabled": true,
+"save_to_file/path": "res://assets/Sewer/Sewer/Models/Opened_fbx/Pipe_009.res"
+},
+"Pipe_010": {
+"generate/lightmap_uv": 0,
+"generate/lods": 0,
+"generate/shadow_meshes": 0,
+"lods/normal_merge_angle": 60.0,
+"save_to_file/enabled": true,
+"save_to_file/path": "res://assets/Sewer/Sewer/Models/Opened_fbx/Pipe_010.res"
+},
+"Pipe_011": {
+"generate/lightmap_uv": 0,
+"generate/lods": 0,
+"generate/shadow_meshes": 0,
+"lods/normal_merge_angle": 60.0,
+"save_to_file/enabled": true,
+"save_to_file/path": "res://assets/Sewer/Sewer/Models/Opened_fbx/Pipe_011.res"
+},
+"Pipe_012": {
+"generate/lightmap_uv": 0,
+"generate/lods": 0,
+"generate/shadow_meshes": 0,
+"lods/normal_merge_angle": 60.0,
+"save_to_file/enabled": true,
+"save_to_file/path": "res://assets/Sewer/Sewer/Models/Opened_fbx/Pipe_012.res"
+},
+"Pipe_013": {
+"generate/lightmap_uv": 0,
+"generate/lods": 0,
+"generate/shadow_meshes": 0,
+"lods/normal_merge_angle": 60.0,
+"save_to_file/enabled": true,
+"save_to_file/path": "res://assets/Sewer/Sewer/Models/Opened_fbx/Pipe_013.res"
+},
+"Pipe_P": {
+"generate/lightmap_uv": 0,
+"generate/lods": 0,
+"generate/shadow_meshes": 0,
+"lods/normal_merge_angle": 60.0,
+"save_to_file/enabled": true,
+"save_to_file/path": "res://assets/Sewer/Sewer/Models/Opened_fbx/Pipe_P.res"
+},
+"Pipe_P_001": {
+"generate/lightmap_uv": 0,
+"generate/lods": 0,
+"generate/shadow_meshes": 0,
+"lods/normal_merge_angle": 60.0,
+"save_to_file/enabled": true,
+"save_to_file/path": "res://assets/Sewer/Sewer/Models/Opened_fbx/Pipe_P_001.res"
+},
+"Serwers01": {
+"generate/lightmap_uv": 0,
+"generate/lods": 0,
+"generate/shadow_meshes": 0,
+"lods/normal_merge_angle": 60.0,
+"save_to_file/enabled": true,
+"save_to_file/path": "res://assets/Sewer/Sewer/Models/Opened_fbx/Serwers01.res"
+},
+"Serwers01_001": {
+"generate/lightmap_uv": 0,
+"generate/lods": 0,
+"generate/shadow_meshes": 0,
+"lods/normal_merge_angle": 60.0,
+"save_to_file/enabled": true,
+"save_to_file/path": "res://assets/Sewer/Sewer/Models/Opened_fbx/Serwers01_001.res"
+},
+"Serwers01_002": {
+"generate/lightmap_uv": 0,
+"generate/lods": 0,
+"generate/shadow_meshes": 0,
+"lods/normal_merge_angle": 60.0,
+"save_to_file/enabled": true,
+"save_to_file/path": "res://assets/Sewer/Sewer/Models/Opened_fbx/Serwers01_002.res"
+},
+"Serwers01_003": {
+"generate/lightmap_uv": 0,
+"generate/lods": 0,
+"generate/shadow_meshes": 0,
+"lods/normal_merge_angle": 60.0,
+"save_to_file/enabled": true,
+"save_to_file/path": "res://assets/Sewer/Sewer/Models/Opened_fbx/Serwers01_003.res"
+},
+"Serwers01_004": {
+"generate/lightmap_uv": 0,
+"generate/lods": 0,
+"generate/shadow_meshes": 0,
+"lods/normal_merge_angle": 60.0,
+"save_to_file/enabled": true,
+"save_to_file/path": "res://assets/Sewer/Sewer/Models/Opened_fbx/Serwers01_004.res"
+},
+"Serwers01_005": {
+"generate/lightmap_uv": 0,
+"generate/lods": 0,
+"generate/shadow_meshes": 0,
+"lods/normal_merge_angle": 60.0,
+"save_to_file/enabled": true,
+"save_to_file/path": "res://assets/Sewer/Sewer/Models/Opened_fbx/Serwers01_005.res"
+},
+"Serwers01_006": {
+"generate/lightmap_uv": 0,
+"generate/lods": 0,
+"generate/shadow_meshes": 0,
+"lods/normal_merge_angle": 60.0,
+"save_to_file/enabled": true,
+"save_to_file/path": "res://assets/Sewer/Sewer/Models/Opened_fbx/Serwers01_006.res"
+},
+"Serwers01_008": {
+"generate/lightmap_uv": 0,
+"generate/lods": 0,
+"generate/shadow_meshes": 0,
+"lods/normal_merge_angle": 60.0,
+"save_to_file/enabled": true,
+"save_to_file/path": "res://assets/Sewer/Sewer/Models/Opened_fbx/Serwers01_008.res"
+},
+"Serwers01_010": {
+"generate/lightmap_uv": 0,
+"generate/lods": 0,
+"generate/shadow_meshes": 0,
+"lods/normal_merge_angle": 60.0,
+"save_to_file/enabled": true,
+"save_to_file/path": "res://assets/Sewer/Sewer/Models/Opened_fbx/Serwers01_010.res"
+},
+"Serwers01_011": {
+"generate/lightmap_uv": 0,
+"generate/lods": 0,
+"generate/shadow_meshes": 0,
+"lods/normal_merge_angle": 60.0,
+"save_to_file/enabled": true,
+"save_to_file/path": "res://assets/Sewer/Sewer/Models/Opened_fbx/Serwers01_011.res"
+},
+"Serwers01_012": {
+"generate/lightmap_uv": 0,
+"generate/lods": 0,
+"generate/shadow_meshes": 0,
+"lods/normal_merge_angle": 60.0,
+"save_to_file/enabled": true,
+"save_to_file/path": "res://assets/Sewer/Sewer/Models/Opened_fbx/Serwers01_012.res"
+},
+"Serwers01_013": {
+"generate/lightmap_uv": 0,
+"generate/lods": 0,
+"generate/shadow_meshes": 0,
+"lods/normal_merge_angle": 60.0,
+"save_to_file/enabled": true,
+"save_to_file/path": "res://assets/Sewer/Sewer/Models/Opened_fbx/Serwers01_013.res"
+},
+"Serwers02": {
+"generate/lightmap_uv": 0,
+"generate/lods": 0,
+"generate/shadow_meshes": 0,
+"lods/normal_merge_angle": 60.0,
+"save_to_file/enabled": true,
+"save_to_file/path": "res://assets/Sewer/Sewer/Models/Opened_fbx/Serwers02.res"
+},
+"Serwers02_001": {
+"generate/lightmap_uv": 0,
+"generate/lods": 0,
+"generate/shadow_meshes": 0,
+"lods/normal_merge_angle": 60.0,
+"save_to_file/enabled": true,
+"save_to_file/path": "res://assets/Sewer/Sewer/Models/Opened_fbx/Serwers02_001.res"
+},
+"Serwers02_002": {
+"generate/lightmap_uv": 0,
+"generate/lods": 0,
+"generate/shadow_meshes": 0,
+"lods/normal_merge_angle": 60.0,
+"save_to_file/enabled": true,
+"save_to_file/path": "res://assets/Sewer/Sewer/Models/Opened_fbx/Serwers02_002.res"
+},
+"Serwers02_003": {
+"generate/lightmap_uv": 0,
+"generate/lods": 0,
+"generate/shadow_meshes": 0,
+"lods/normal_merge_angle": 60.0,
+"save_to_file/enabled": true,
+"save_to_file/path": "res://assets/Sewer/Sewer/Models/Opened_fbx/Serwers02_003.res"
+},
+"Serwers02_004": {
+"generate/lightmap_uv": 0,
+"generate/lods": 0,
+"generate/shadow_meshes": 0,
+"lods/normal_merge_angle": 60.0,
+"save_to_file/enabled": true,
+"save_to_file/path": "res://assets/Sewer/Sewer/Models/Opened_fbx/Serwers02_004.res"
+},
+"Serwers02_005": {
+"generate/lightmap_uv": 0,
+"generate/lods": 0,
+"generate/shadow_meshes": 0,
+"lods/normal_merge_angle": 60.0,
+"save_to_file/enabled": true,
+"save_to_file/path": "res://assets/Sewer/Sewer/Models/Opened_fbx/Serwers02_005.res"
+},
+"Serwers02_006": {
+"generate/lightmap_uv": 0,
+"generate/lods": 0,
+"generate/shadow_meshes": 0,
+"lods/normal_merge_angle": 60.0,
+"save_to_file/enabled": true,
+"save_to_file/path": "res://assets/Sewer/Sewer/Models/Opened_fbx/Serwers02_006.res"
+},
+"Serwers02_007": {
+"generate/lightmap_uv": 0,
+"generate/lods": 0,
+"generate/shadow_meshes": 0,
+"lods/normal_merge_angle": 60.0,
+"save_to_file/enabled": true,
+"save_to_file/path": "res://assets/Sewer/Sewer/Models/Opened_fbx/Serwers02_007.res"
+},
+"Serwers02_008": {
+"generate/lightmap_uv": 0,
+"generate/lods": 0,
+"generate/shadow_meshes": 0,
+"lods/normal_merge_angle": 60.0,
+"save_to_file/enabled": true,
+"save_to_file/path": "res://assets/Sewer/Sewer/Models/Opened_fbx/Serwers02_008.res"
+},
+"Serwers02_009": {
+"generate/lightmap_uv": 0,
+"generate/lods": 0,
+"generate/shadow_meshes": 0,
+"lods/normal_merge_angle": 60.0,
+"save_to_file/enabled": true,
+"save_to_file/path": "res://assets/Sewer/Sewer/Models/Opened_fbx/Serwers02_009.res"
+},
+"Serwers02_010": {
+"generate/lightmap_uv": 0,
+"generate/lods": 0,
+"generate/shadow_meshes": 0,
+"lods/normal_merge_angle": 60.0,
+"save_to_file/enabled": true,
+"save_to_file/path": "res://assets/Sewer/Sewer/Models/Opened_fbx/Serwers02_010.res"
+},
+"SerwersP": {
+"generate/lightmap_uv": 0,
+"generate/lods": 0,
+"generate/shadow_meshes": 0,
+"lods/normal_merge_angle": 60.0,
+"save_to_file/enabled": true,
+"save_to_file/path": "res://assets/Sewer/Sewer/Models/Opened_fbx/SerwersP.res"
+},
+"SerwersP1": {
+"generate/lightmap_uv": 0,
+"generate/lods": 0,
+"generate/shadow_meshes": 0,
+"lods/normal_merge_angle": 60.0,
+"save_to_file/enabled": true,
+"save_to_file/path": "res://assets/Sewer/Sewer/Models/Opened_fbx/SerwersP1.res"
+},
+"SerwersP1_001": {
+"generate/lightmap_uv": 0,
+"generate/lods": 0,
+"generate/shadow_meshes": 0,
+"lods/normal_merge_angle": 60.0,
+"save_to_file/enabled": true,
+"save_to_file/path": "res://assets/Sewer/Sewer/Models/Opened_fbx/SerwersP1_001.res"
+},
+"SerwersP1_002": {
+"generate/lightmap_uv": 0,
+"generate/lods": 0,
+"generate/shadow_meshes": 0,
+"lods/normal_merge_angle": 60.0,
+"save_to_file/enabled": true,
+"save_to_file/path": "res://assets/Sewer/Sewer/Models/Opened_fbx/SerwersP1_002.res"
+},
+"SerwersP1_003": {
+"generate/lightmap_uv": 0,
+"generate/lods": 0,
+"generate/shadow_meshes": 0,
+"lods/normal_merge_angle": 60.0,
+"save_to_file/enabled": true,
+"save_to_file/path": "res://assets/Sewer/Sewer/Models/Opened_fbx/SerwersP1_003.res"
+},
+"SerwersP1_004": {
+"generate/lightmap_uv": 0,
+"generate/lods": 0,
+"generate/shadow_meshes": 0,
+"lods/normal_merge_angle": 60.0,
+"save_to_file/enabled": true,
+"save_to_file/path": "res://assets/Sewer/Sewer/Models/Opened_fbx/SerwersP1_004.res"
+},
+"SerwersP1_005": {
+"generate/lightmap_uv": 0,
+"generate/lods": 0,
+"generate/shadow_meshes": 0,
+"lods/normal_merge_angle": 60.0,
+"save_to_file/enabled": true,
+"save_to_file/path": "res://assets/Sewer/Sewer/Models/Opened_fbx/SerwersP1_005.res"
+},
+"SerwersP1_006": {
+"generate/lightmap_uv": 0,
+"generate/lods": 0,
+"generate/shadow_meshes": 0,
+"lods/normal_merge_angle": 60.0,
+"save_to_file/enabled": true,
+"save_to_file/path": "res://assets/Sewer/Sewer/Models/Opened_fbx/SerwersP1_006.res"
+},
+"SerwersP1_007": {
+"generate/lightmap_uv": 0,
+"generate/lods": 0,
+"generate/shadow_meshes": 0,
+"lods/normal_merge_angle": 60.0,
+"save_to_file/enabled": true,
+"save_to_file/path": "res://assets/Sewer/Sewer/Models/Opened_fbx/SerwersP1_007.res"
+},
+"SerwersP1_008": {
+"generate/lightmap_uv": 0,
+"generate/lods": 0,
+"generate/shadow_meshes": 0,
+"lods/normal_merge_angle": 60.0,
+"save_to_file/enabled": true,
+"save_to_file/path": "res://assets/Sewer/Sewer/Models/Opened_fbx/SerwersP1_008.res"
+},
+"SerwersP1_009": {
+"generate/lightmap_uv": 0,
+"generate/lods": 0,
+"generate/shadow_meshes": 0,
+"lods/normal_merge_angle": 60.0,
+"save_to_file/enabled": true,
+"save_to_file/path": "res://assets/Sewer/Sewer/Models/Opened_fbx/SerwersP1_009.res"
+},
+"SerwersP1_010": {
+"generate/lightmap_uv": 0,
+"generate/lods": 0,
+"generate/shadow_meshes": 0,
+"lods/normal_merge_angle": 60.0,
+"save_to_file/enabled": true,
+"save_to_file/path": "res://assets/Sewer/Sewer/Models/Opened_fbx/SerwersP1_010.res"
+},
+"SerwersP1_011": {
+"generate/lightmap_uv": 0,
+"generate/lods": 0,
+"generate/shadow_meshes": 0,
+"lods/normal_merge_angle": 60.0,
+"save_to_file/enabled": true,
+"save_to_file/path": "res://assets/Sewer/Sewer/Models/Opened_fbx/SerwersP1_011.res"
+},
+"SerwersP1_012": {
+"generate/lightmap_uv": 0,
+"generate/lods": 0,
+"generate/shadow_meshes": 0,
+"lods/normal_merge_angle": 60.0,
+"save_to_file/enabled": true,
+"save_to_file/path": "res://assets/Sewer/Sewer/Models/Opened_fbx/SerwersP1_012.res"
+},
+"SerwersP_001": {
+"generate/lightmap_uv": 0,
+"generate/lods": 0,
+"generate/shadow_meshes": 0,
+"lods/normal_merge_angle": 60.0,
+"save_to_file/enabled": true,
+"save_to_file/path": "res://assets/Sewer/Sewer/Models/Opened_fbx/SerwersP_001.res"
+},
+"SerwersP_002": {
+"generate/lightmap_uv": 0,
+"generate/lods": 0,
+"generate/shadow_meshes": 0,
+"lods/normal_merge_angle": 60.0,
+"save_to_file/enabled": true,
+"save_to_file/path": "res://assets/Sewer/Sewer/Models/Opened_fbx/SerwersP_002.res"
+},
+"SerwersP_003": {
+"generate/lightmap_uv": 0,
+"generate/lods": 0,
+"generate/shadow_meshes": 0,
+"lods/normal_merge_angle": 60.0,
+"save_to_file/enabled": true,
+"save_to_file/path": "res://assets/Sewer/Sewer/Models/Opened_fbx/SerwersP_003.res"
+},
+"SerwersP_004": {
+"generate/lightmap_uv": 0,
+"generate/lods": 0,
+"generate/shadow_meshes": 0,
+"lods/normal_merge_angle": 60.0,
+"save_to_file/enabled": true,
+"save_to_file/path": "res://assets/Sewer/Sewer/Models/Opened_fbx/SerwersP_004.res"
+},
+"SerwersP_005": {
+"generate/lightmap_uv": 0,
+"generate/lods": 0,
+"generate/shadow_meshes": 0,
+"lods/normal_merge_angle": 60.0,
+"save_to_file/enabled": true,
+"save_to_file/path": "res://assets/Sewer/Sewer/Models/Opened_fbx/SerwersP_005.res"
+},
+"SerwersP_006": {
+"generate/lightmap_uv": 0,
+"generate/lods": 0,
+"generate/shadow_meshes": 0,
+"lods/normal_merge_angle": 60.0,
+"save_to_file/enabled": true,
+"save_to_file/path": "res://assets/Sewer/Sewer/Models/Opened_fbx/SerwersP_006.res"
+},
+"SerwersP_007": {
+"generate/lightmap_uv": 0,
+"generate/lods": 0,
+"generate/shadow_meshes": 0,
+"lods/normal_merge_angle": 60.0,
+"save_to_file/enabled": true,
+"save_to_file/path": "res://assets/Sewer/Sewer/Models/Opened_fbx/SerwersP_007.res"
+},
+"SerwersP_008": {
+"generate/lightmap_uv": 0,
+"generate/lods": 0,
+"generate/shadow_meshes": 0,
+"lods/normal_merge_angle": 60.0,
+"save_to_file/enabled": true,
+"save_to_file/path": "res://assets/Sewer/Sewer/Models/Opened_fbx/SerwersP_008.res"
+},
+"SerwersP_009": {
+"generate/lightmap_uv": 0,
+"generate/lods": 0,
+"generate/shadow_meshes": 0,
+"lods/normal_merge_angle": 60.0,
+"save_to_file/enabled": true,
+"save_to_file/path": "res://assets/Sewer/Sewer/Models/Opened_fbx/SerwersP_009.res"
+},
+"SerwersP_010": {
+"generate/lightmap_uv": 0,
+"generate/lods": 0,
+"generate/shadow_meshes": 0,
+"lods/normal_merge_angle": 60.0,
+"save_to_file/enabled": true,
+"save_to_file/path": "res://assets/Sewer/Sewer/Models/Opened_fbx/SerwersP_010.res"
+},
+"SerwersP_011": {
+"generate/lightmap_uv": 0,
+"generate/lods": 0,
+"generate/shadow_meshes": 0,
+"lods/normal_merge_angle": 60.0,
+"save_to_file/enabled": true,
+"save_to_file/path": "res://assets/Sewer/Sewer/Models/Opened_fbx/SerwersP_011.res"
+},
+"SerwersP_012": {
+"generate/lightmap_uv": 0,
+"generate/lods": 0,
+"generate/shadow_meshes": 0,
+"lods/normal_merge_angle": 60.0,
+"save_to_file/enabled": true,
+"save_to_file/path": "res://assets/Sewer/Sewer/Models/Opened_fbx/SerwersP_012.res"
+},
+"SerwersP_013": {
+"generate/lightmap_uv": 0,
+"generate/lods": 0,
+"generate/shadow_meshes": 0,
+"lods/normal_merge_angle": 60.0,
+"save_to_file/enabled": true,
+"save_to_file/path": "res://assets/Sewer/Sewer/Models/Opened_fbx/SerwersP_013.res"
+},
+"Serwers_005": {
+"generate/lightmap_uv": 0,
+"generate/lods": 0,
+"generate/shadow_meshes": 0,
+"lods/normal_merge_angle": 60.0,
+"save_to_file/enabled": true,
+"save_to_file/path": "res://assets/Sewer/Sewer/Models/Opened_fbx/Serwers_005.res"
+},
+"Serwers_006": {
+"generate/lightmap_uv": 0,
+"generate/lods": 0,
+"generate/shadow_meshes": 0,
+"lods/normal_merge_angle": 60.0,
+"save_to_file/enabled": true,
+"save_to_file/path": "res://assets/Sewer/Sewer/Models/Opened_fbx/Serwers_006.res"
+},
+"Serwers_007": {
+"generate/lightmap_uv": 0,
+"generate/lods": 0,
+"generate/shadow_meshes": 0,
+"lods/normal_merge_angle": 60.0,
+"save_to_file/enabled": true,
+"save_to_file/path": "res://assets/Sewer/Sewer/Models/Opened_fbx/Serwers_007.res"
+},
+"Serwers_010": {
+"generate/lightmap_uv": 0,
+"generate/lods": 0,
+"generate/shadow_meshes": 0,
+"lods/normal_merge_angle": 60.0,
+"save_to_file/enabled": true,
+"save_to_file/path": "res://assets/Sewer/Sewer/Models/Opened_fbx/Serwers_010.res"
+},
+"Serwers_016": {
+"generate/lightmap_uv": 0,
+"generate/lods": 0,
+"generate/shadow_meshes": 0,
+"lods/normal_merge_angle": 60.0,
+"save_to_file/enabled": true,
+"save_to_file/path": "res://assets/Sewer/Sewer/Models/Opened_fbx/Serwers_016.res"
+},
+"Serwers_017": {
+"generate/lightmap_uv": 0,
+"generate/lods": 0,
+"generate/shadow_meshes": 0,
+"lods/normal_merge_angle": 60.0,
+"save_to_file/enabled": true,
+"save_to_file/path": "res://assets/Sewer/Sewer/Models/Opened_fbx/Serwers_017.res"
+},
+"Serwers_018": {
+"generate/lightmap_uv": 0,
+"generate/lods": 0,
+"generate/shadow_meshes": 0,
+"lods/normal_merge_angle": 60.0,
+"save_to_file/enabled": true,
+"save_to_file/path": "res://assets/Sewer/Sewer/Models/Opened_fbx/Serwers_018.res"
+},
+"Serwers_019": {
+"generate/lightmap_uv": 0,
+"generate/lods": 0,
+"generate/shadow_meshes": 0,
+"lods/normal_merge_angle": 60.0,
+"save_to_file/enabled": true,
+"save_to_file/path": "res://assets/Sewer/Sewer/Models/Opened_fbx/Serwers_019.res"
+},
+"Serwers_020": {
+"generate/lightmap_uv": 0,
+"generate/lods": 0,
+"generate/shadow_meshes": 0,
+"lods/normal_merge_angle": 60.0,
+"save_to_file/enabled": true,
+"save_to_file/path": "res://assets/Sewer/Sewer/Models/Opened_fbx/Serwers_020.res"
+},
+"Serwers_021": {
+"generate/lightmap_uv": 0,
+"generate/lods": 0,
+"generate/shadow_meshes": 0,
+"lods/normal_merge_angle": 60.0,
+"save_to_file/enabled": true,
+"save_to_file/path": "res://assets/Sewer/Sewer/Models/Opened_fbx/Serwers_021.res"
+},
+"Serwers_022": {
+"generate/lightmap_uv": 0,
+"generate/lods": 0,
+"generate/shadow_meshes": 0,
+"lods/normal_merge_angle": 60.0,
+"save_to_file/enabled": true,
+"save_to_file/path": "res://assets/Sewer/Sewer/Models/Opened_fbx/Serwers_022.res"
+},
+"Serwers_023": {
+"generate/lightmap_uv": 0,
+"generate/lods": 0,
+"generate/shadow_meshes": 0,
+"lods/normal_merge_angle": 60.0,
+"save_to_file/enabled": true,
+"save_to_file/path": "res://assets/Sewer/Sewer/Models/Opened_fbx/Serwers_023.res"
+},
+"Serwers_024": {
+"generate/lightmap_uv": 0,
+"generate/lods": 0,
+"generate/shadow_meshes": 0,
+"lods/normal_merge_angle": 60.0,
+"save_to_file/enabled": true,
+"save_to_file/path": "res://assets/Sewer/Sewer/Models/Opened_fbx/Serwers_024.res"
+},
+"Serwers_025": {
+"generate/lightmap_uv": 0,
+"generate/lods": 0,
+"generate/shadow_meshes": 0,
+"lods/normal_merge_angle": 60.0,
+"save_to_file/enabled": true,
+"save_to_file/path": "res://assets/Sewer/Sewer/Models/Opened_fbx/Serwers_025.res"
+},
+"Serwers_026": {
+"generate/lightmap_uv": 0,
+"generate/lods": 0,
+"generate/shadow_meshes": 0,
+"lods/normal_merge_angle": 60.0,
+"save_to_file/enabled": true,
+"save_to_file/path": "res://assets/Sewer/Sewer/Models/Opened_fbx/Serwers_026.res"
+},
+"Serwers_027": {
+"generate/lightmap_uv": 0,
+"generate/lods": 0,
+"generate/shadow_meshes": 0,
+"lods/normal_merge_angle": 60.0,
+"save_to_file/enabled": true,
+"save_to_file/path": "res://assets/Sewer/Sewer/Models/Opened_fbx/Serwers_027.res"
+},
+"TB": {
+"generate/lightmap_uv": 0,
+"generate/lods": 0,
+"generate/shadow_meshes": 0,
+"lods/normal_merge_angle": 60.0,
+"save_to_file/enabled": true,
+"save_to_file/path": "res://assets/Sewer/Sewer/Models/Opened_fbx/TB.res"
+},
+"Tire": {
+"generate/lightmap_uv": 0,
+"generate/lods": 0,
+"generate/shadow_meshes": 0,
+"lods/normal_merge_angle": 60.0,
+"save_to_file/enabled": true,
+"save_to_file/path": "res://assets/Sewer/Sewer/Models/Opened_fbx/Tire.res"
+},
+"Trash": {
+"generate/lightmap_uv": 0,
+"generate/lods": 0,
+"generate/shadow_meshes": 0,
+"lods/normal_merge_angle": 60.0,
+"save_to_file/enabled": true,
+"save_to_file/path": "res://assets/Sewer/Sewer/Models/Opened_fbx/Trash.res"
+},
+"Trash_001": {
+"generate/lightmap_uv": 0,
+"generate/lods": 0,
+"generate/shadow_meshes": 0,
+"lods/normal_merge_angle": 60.0,
+"save_to_file/enabled": true,
+"save_to_file/path": "res://assets/Sewer/Sewer/Models/Opened_fbx/Trash_001.res"
+},
+"Trash_002": {
+"generate/lightmap_uv": 0,
+"generate/lods": 0,
+"generate/shadow_meshes": 0,
+"lods/normal_merge_angle": 60.0,
+"save_to_file/enabled": true,
+"save_to_file/path": "res://assets/Sewer/Sewer/Models/Opened_fbx/Trash_002.res"
+},
+"Trash_003": {
+"generate/lightmap_uv": 0,
+"generate/lods": 0,
+"generate/shadow_meshes": 0,
+"lods/normal_merge_angle": 60.0,
+"save_to_file/enabled": true,
+"save_to_file/path": "res://assets/Sewer/Sewer/Models/Opened_fbx/Trash_003.res"
+},
+"Trash_004": {
+"generate/lightmap_uv": 0,
+"generate/lods": 0,
+"generate/shadow_meshes": 0,
+"lods/normal_merge_angle": 60.0,
+"save_to_file/enabled": true,
+"save_to_file/path": "res://assets/Sewer/Sewer/Models/Opened_fbx/Trash_004.res"
+},
+"Trash_005": {
+"generate/lightmap_uv": 0,
+"generate/lods": 0,
+"generate/shadow_meshes": 0,
+"lods/normal_merge_angle": 60.0,
+"save_to_file/enabled": true,
+"save_to_file/path": "res://assets/Sewer/Sewer/Models/Opened_fbx/Trash_005.res"
+},
+"Trash_006": {
+"generate/lightmap_uv": 0,
+"generate/lods": 0,
+"generate/shadow_meshes": 0,
+"lods/normal_merge_angle": 60.0,
+"save_to_file/enabled": true,
+"save_to_file/path": "res://assets/Sewer/Sewer/Models/Opened_fbx/Trash_006.res"
+},
+"Trash_007": {
+"generate/lightmap_uv": 0,
+"generate/lods": 0,
+"generate/shadow_meshes": 0,
+"lods/normal_merge_angle": 60.0,
+"save_to_file/enabled": true,
+"save_to_file/path": "res://assets/Sewer/Sewer/Models/Opened_fbx/Trash_007.res"
+},
+"Trash_008": {
+"generate/lightmap_uv": 0,
+"generate/lods": 0,
+"generate/shadow_meshes": 0,
+"lods/normal_merge_angle": 60.0,
+"save_to_file/enabled": true,
+"save_to_file/path": "res://assets/Sewer/Sewer/Models/Opened_fbx/Trash_008.res"
+},
+"Trash_009": {
+"generate/lightmap_uv": 0,
+"generate/lods": 0,
+"generate/shadow_meshes": 0,
+"lods/normal_merge_angle": 60.0,
+"save_to_file/enabled": true,
+"save_to_file/path": "res://assets/Sewer/Sewer/Models/Opened_fbx/Trash_009.res"
+},
+"Trash_010": {
+"generate/lightmap_uv": 0,
+"generate/lods": 0,
+"generate/shadow_meshes": 0,
+"lods/normal_merge_angle": 60.0,
+"save_to_file/enabled": true,
+"save_to_file/path": "res://assets/Sewer/Sewer/Models/Opened_fbx/Trash_010.res"
+},
+"Trash_011": {
+"generate/lightmap_uv": 0,
+"generate/lods": 0,
+"generate/shadow_meshes": 0,
+"lods/normal_merge_angle": 60.0,
+"save_to_file/enabled": true,
+"save_to_file/path": "res://assets/Sewer/Sewer/Models/Opened_fbx/Trash_011.res"
+},
+"Trash_012": {
+"generate/lightmap_uv": 0,
+"generate/lods": 0,
+"generate/shadow_meshes": 0,
+"lods/normal_merge_angle": 60.0,
+"save_to_file/enabled": true,
+"save_to_file/path": "res://assets/Sewer/Sewer/Models/Opened_fbx/Trash_012.res"
+},
+"Trash_013": {
+"generate/lightmap_uv": 0,
+"generate/lods": 0,
+"generate/shadow_meshes": 0,
+"lods/normal_merge_angle": 60.0,
+"save_to_file/enabled": true,
+"save_to_file/path": "res://assets/Sewer/Sewer/Models/Opened_fbx/Trash_013.res"
+},
+"Trash_M": {
+"generate/lightmap_uv": 0,
+"generate/lods": 0,
+"generate/shadow_meshes": 0,
+"lods/normal_merge_angle": 60.0,
+"save_to_file/enabled": true,
+"save_to_file/path": "res://assets/Sewer/Sewer/Models/Opened_fbx/Trash_M.res"
+},
+"Trash_M_01": {
+"generate/lightmap_uv": 0,
+"generate/lods": 0,
+"generate/shadow_meshes": 0,
+"lods/normal_merge_angle": 60.0,
+"save_to_file/enabled": true,
+"save_to_file/path": "res://assets/Sewer/Sewer/Models/Opened_fbx/Trash_M_01.res"
+},
+"debris": {
+"generate/lightmap_uv": 0,
+"generate/lods": 0,
+"generate/shadow_meshes": 0,
+"lods/normal_merge_angle": 60.0,
+"save_to_file/enabled": true,
+"save_to_file/path": "res://assets/Sewer/Sewer/Models/Opened_fbx/debris.res"
+},
+"debris_01": {
+"generate/lightmap_uv": 0,
+"generate/lods": 0,
+"generate/shadow_meshes": 0,
+"lods/normal_merge_angle": 60.0,
+"save_to_file/enabled": true,
+"save_to_file/path": "res://assets/Sewer/Sewer/Models/Opened_fbx/debris_01.res"
+},
+"debris_02": {
+"generate/lightmap_uv": 0,
+"generate/lods": 0,
+"generate/shadow_meshes": 0,
+"lods/normal_merge_angle": 60.0,
+"save_to_file/enabled": true,
+"save_to_file/path": "res://assets/Sewer/Sewer/Models/Opened_fbx/debris_02.res"
+},
+"debris_03": {
+"generate/lightmap_uv": 0,
+"generate/lods": 0,
+"generate/shadow_meshes": 0,
+"lods/normal_merge_angle": 60.0,
+"save_to_file/enabled": true,
+"save_to_file/path": "res://assets/Sewer/Sewer/Models/Opened_fbx/debris_03.res"
+},
+"debris_04": {
+"generate/lightmap_uv": 0,
+"generate/lods": 0,
+"generate/shadow_meshes": 0,
+"lods/normal_merge_angle": 60.0,
+"save_to_file/enabled": true,
+"save_to_file/path": "res://assets/Sewer/Sewer/Models/Opened_fbx/debris_04.res"
+},
+"debris_05": {
+"generate/lightmap_uv": 0,
+"generate/lods": 0,
+"generate/shadow_meshes": 0,
+"lods/normal_merge_angle": 60.0,
+"save_to_file/enabled": true,
+"save_to_file/path": "res://assets/Sewer/Sewer/Models/Opened_fbx/debris_05.res"
+},
+"door_metal": {
+"generate/lightmap_uv": 0,
+"generate/lods": 0,
+"generate/shadow_meshes": 0,
+"lods/normal_merge_angle": 60.0,
+"save_to_file/enabled": true,
+"save_to_file/path": "res://assets/Sewer/Sewer/Models/Opened_fbx/door_metal.res"
+},
+"door_metal_01": {
+"generate/lightmap_uv": 0,
+"generate/lods": 0,
+"generate/shadow_meshes": 0,
+"lods/normal_merge_angle": 60.0,
+"save_to_file/enabled": true,
+"save_to_file/path": "res://assets/Sewer/Sewer/Models/Opened_fbx/door_metal_01.res"
+},
+"door_metal_02": {
+"generate/lightmap_uv": 0,
+"generate/lods": 0,
+"generate/shadow_meshes": 0,
+"lods/normal_merge_angle": 60.0,
+"save_to_file/enabled": true,
+"save_to_file/path": "res://assets/Sewer/Sewer/Models/Opened_fbx/door_metal_02.res"
+}
+}
+}
 fbx/importer=0
 fbx/allow_geometry_helper_nodes=false
 fbx/embedded_image_handling=1

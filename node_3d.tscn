@@ -1,0 +1,11 @@
+[gd_scene load_steps=3 format=3 uid="uid://bk6i5mu47xcsd"]
+
+[ext_resource type="Script" uid="uid://bb48txnbax4b7" path="res://assets/node_3d.gd" id="1_noarx"]
+[ext_resource type="PackedScene" uid="uid://dpsrhfet7ehok" path="res://assets/Metro_PSX/Metro_PSX/Models/Metro.fbx" id="2_a0tk4"]
+
+[node name="Node3D" type="Node3D"]
+script = ExtResource("1_noarx")
+
+[node name="Metro" parent="." instance=ExtResource("2_a0tk4")]
+
+[editable path="Metro"]
